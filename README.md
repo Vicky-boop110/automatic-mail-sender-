@@ -1,4 +1,4 @@
-# 📧 Automatic Gmail Sender with Python
+
 
 This project is a simple, automated email sender built with Python. It uses Gmail's SMTP server to send scheduled emails daily at a specified time using the smtplib and schedule libraries.
 
